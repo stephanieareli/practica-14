@@ -1,0 +1,19 @@
+body{
+	margin-left: 10px;
+	margin-top:20px;
+	margin-right:10px;
+	margin-bottom:5px;
+	background-color: #EEA55B;
+}
+h2{
+	text-align: center;
+	font-family: "Kathen","Almond Nougat","Spring Garden";
+	color: #8E4E3E
+}
+p{ 
+font-family: "Kathen","Almond Nougat","Spring Garden";
+}
+a{
+font-family: "Almond Nougat","Spring Garden";
+color: #1ABC9C;	
+}
